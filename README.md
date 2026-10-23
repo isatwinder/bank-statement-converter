@@ -1,4 +1,4 @@
-# Bank statement formats
+# Bank statement converter
 
 How real bank and credit card statements lay out their transactions in PDF, and the details that
 break naive PDF-to-Excel conversion. Written for developers building statement parsers, and for
