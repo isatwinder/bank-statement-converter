@@ -1,4 +1,4 @@
-# Checking a conversion
+# How to check a converted bank statement
 
 A converted statement can be checked against figures the bank printed. If every check passes,
 no row is missing, duplicated or misread. If one fails, the first failing row shows where.

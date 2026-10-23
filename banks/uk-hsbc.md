@@ -1,4 +1,4 @@
-# HSBC (United Kingdom)
+# HSBC UK bank statement to Excel: layout notes
 
 - Columns: Date, Payment type and details, Paid out, Paid in, Balance.
 - The date prints only on the **first** transaction of each day; later rows that day have none.

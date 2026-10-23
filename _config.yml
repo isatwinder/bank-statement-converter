@@ -1,5 +1,5 @@
 title: Bank statement converter
-description: Bank statement PDF layouts and the gotchas that break PDF-to-Excel conversion
+description: How a bank statement converter turns PDF statements into Excel, why conversions go wrong, and bank statement layouts by bank.
 url: https://isatwinder.github.io
 baseurl: /bank-statement-converter
 theme: jekyll-theme-cayman

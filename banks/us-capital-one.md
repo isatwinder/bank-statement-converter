@@ -1,4 +1,4 @@
-# Capital One (United States)
+# Capital One credit card statement to Excel: layout notes
 
 Credit card statements.
 

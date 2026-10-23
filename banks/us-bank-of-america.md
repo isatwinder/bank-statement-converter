@@ -1,4 +1,4 @@
-# Bank of America (United States)
+# Bank of America statement to Excel: layout notes
 
 - Transactions are grouped into sections: "Deposits and other additions" and "Withdrawals and
   other subtractions" (with further groups for checks and service fees on some accounts). Amounts

@@ -1,4 +1,4 @@
-# TD Canada Trust (Canada)
+# TD Canada Trust statement to Excel: layout notes
 
 - Columns: Description, Withdrawals, Deposits, Date, Balance. The date column comes **after** the
   description and amounts, so parsers that expect the date first misplace every row.

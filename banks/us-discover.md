@@ -1,4 +1,4 @@
-# Discover (United States)
+# Discover credit card statement to Excel: layout notes
 
 Credit card statements.
 

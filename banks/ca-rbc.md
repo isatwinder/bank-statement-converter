@@ -1,4 +1,4 @@
-# RBC Royal Bank (Canada)
+# RBC bank statement to Excel: layout notes
 
 - Columns: Date, Description, Withdrawals, Deposits, Balance.
 - Small amounts can be printed **without a leading zero** (`.15`). A parser that requires a digit

@@ -1,4 +1,4 @@
-# BBVA México (Mexico)
+# BBVA México estado de cuenta to Excel: layout notes
 
 Account statements in Spanish, amounts in MXN.
 

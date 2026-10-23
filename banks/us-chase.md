@@ -1,4 +1,4 @@
-# Chase (United States)
+# Chase bank statement to Excel: layout notes
 
 ## Checking statements
 

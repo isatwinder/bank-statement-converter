@@ -1,4 +1,4 @@
-# Common gotchas
+# Why bank statement PDF to Excel conversion goes wrong
 
 The problems below show up across many banks. Most of them don't cause an error. They produce a
 spreadsheet that looks right and isn't.
